@@ -1,5 +1,11 @@
-function App() {
-    return <div>Learn React</div>;
-}
+import SearchBar from './components/SearchBar';
+
+const App = () => {
+    return (
+        <div className='ui container' style={{ marginTop: '10px' }}>
+            <SearchBar />
+        </div>
+    );
+};
 
 export default App;
