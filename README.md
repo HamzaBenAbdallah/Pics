@@ -1,1 +1,1 @@
-Picture search engine created with React using Unsplash API.
+**Picture search engine created with React using Unsplash API.**
